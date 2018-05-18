@@ -1,11 +1,11 @@
 # 2DActMyo
 
-Debug Compilation :
+## Debug Compilation :
 
-cd src/
-make
+    cd src/
+    make
 
-Execution compilation:
+## Execution compilation:
 
-cd src/
-make prod
+    cd src/
+    make prod
